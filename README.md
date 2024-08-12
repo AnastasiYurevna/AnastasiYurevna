@@ -23,5 +23,8 @@
    Проект приложение знакомств: предобработка данных; изучение аномалий в данных; исследовательский анализ данных; проверка статистических гипотез; <br />
    stack: `Python`, `Pandas`, `Matplotlib`, `NumPy`, `SciPy` <br />
 3. [Построение дашборда: Топ-200 фильмов 2023 года](https://datalens.yandex/jzy25udy64jg8) <br />
-   BI-инструмент; визуализация; дашборд;  <br />
+   Проект рейтинг фильмов 2023 года: BI-инструмент; визуализация; дашборд;  <br />
    stack: `Yandex DataLens` <br />
+4. [Построение дашборда: отчет по продажам](https://public.tableau.com/views/KarpovDashboardPractice_17234692506690/SalesMonthlyReport?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)<br />
+   Проект отчет по продажам: BI-инструмент; визуализация; дашборд;  <br />
+   stack: `Tableau` <br />
