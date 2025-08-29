@@ -3,7 +3,7 @@
 <h3 align="center"> <img src="https://em-content.zobj.net/source/apple/391/sparkles_2728.png" height="23"/> Data Analyst from Saint-Peterburg <img src="https://em-content.zobj.net/source/apple/391/sparkles_2728.png" height="23"/> </h3>
 
 ## Обо мне
-- Я - аналитик в Сбере.
+- Я - аналитик в Т-банке (ex. Сбер).
 - Верю в то, что качественная аналитика спасет мир и Ваш бизнес.
 - Мои контакты:
     - [Телеграм](https://t.me/anastasi_yurevna)
